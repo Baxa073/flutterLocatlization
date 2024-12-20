@@ -178,7 +178,7 @@ Here is an example of a `en-US.json` translation file:
 Clone this repository and run the application:
 
 ```bash
-git clone https://github.com/your-repo/flutter-localization-example.git
+git clone https://github.com/baxa073/flutterLocalization.git
 cd flutter-localization-example
 flutter pub get
 flutter run
